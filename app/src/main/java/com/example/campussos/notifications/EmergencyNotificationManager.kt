@@ -1,0 +1,3 @@
+package com.example.campussos.notifications
+
+class EmergencyNotificationManager
