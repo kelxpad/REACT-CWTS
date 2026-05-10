@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Campus SOS</string>
+    <string name="sos_button_label">Send SOS</string>
+    <string name="location_permission_button_label">Enable Location Link</string>
+    <string name="call_permission_button_label">Enable Emergency Call</string>
+    <string name="settings_title">Emergency Settings</string>
+    <string name="confirm_title">Confirm Emergency SOS</string>
+    <string name="confirm_sos_button_label">Send Emergency SOS</string>
+    <string name="widget_sos_label">SOS</string>
+    <string name="widget_description">One-tap campus emergency SOS widget</string>
+    <string name="emergency_channel_name">Emergency dispatch</string>
+    <string name="emergency_countdown_title">Emergency SOS starting</string>
+    <string name="emergency_countdown_body">Sending in %1$d seconds</string>
+    <string name="emergency_cancel_action">Cancel</string>
+    <string name="emergency_canceled_title">Emergency SOS canceled</string>
+    <string name="emergency_canceled_body">The emergency trigger was canceled.</string>
+    <string name="emergency_dispatch_title">Sending emergency SOS</string>
+    <string name="emergency_dispatch_body">Preparing emergency message</string>
+    <string name="emergency_complete_title">Emergency SOS update</string>
+    <string name="emergency_complete_body">Emergency flow completed.</string>
+    <string name="emergency_sms_permission_missing">SMS permission is missing.</string>
+    <string name="emergency_sms_no_contacts">No emergency SMS contacts are configured.</string>
+    <string name="emergency_sms_failed">SMS failed: %1$s</string>
+    <string name="emergency_call_no_number">Emergency call is enabled, but no call number is configured.</string>
+    <string name="emergency_call_permission_missing">Call permission is missing.</string>
+    <string name="emergency_call_failed">Emergency call failed: %1$s</string>
+    <string name="emergency_call_started">Emergency call started.</string>
+    <string name="default_emergency_message">Emergency SOS: I need help on campus.</string>
+    <string name="permission_continue_label">Continue</string>
+    <string name="permission_skip_label">Not Now</string>
+    <string name="permission_sms_title">Allow Emergency SMS</string>
+    <string name="permission_sms_body">Campus SOS needs SMS permission only when you send an emergency alert. Without it, the app cannot send the emergency text.</string>
+    <string name="permission_call_title">Allow Emergency Call</string>
+    <string name="permission_call_body">Campus SOS uses call permission only if auto-call is enabled. Without it, SMS alerts can still work.</string>
+    <string name="permission_location_title">Allow Location Link</string>
+    <string name="permission_location_body">Campus SOS can add a Google Maps link to emergency texts. Without location permission, alerts still send without the link.</string>
+    <plurals name="emergency_sms_requested">
+        <item quantity="one">SMS requested for %1$d contact.</item>
+        <item quantity="other">SMS requested for %1$d contacts.</item>
+    </plurals>
+</resources>
