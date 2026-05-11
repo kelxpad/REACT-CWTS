@@ -1,0 +1,114 @@
+[
+    {
+        "merged": "/Users/davidfrancisco/.gradle/daemon/9.0.0/com.example.campussos.app-debug-7:/drawable_bg_sos_ring_inner.xml.flat",
+        "source": "/Users/davidfrancisco/.gradle/daemon/9.0.0/com.example.campussos.app-main-9:/drawable/bg_sos_ring_inner.xml"
+    },
+    {
+        "merged": "/Users/davidfrancisco/.gradle/daemon/9.0.0/com.example.campussos.app-debug-7:/layout_activity_settings.xml.flat",
+        "source": "/Users/davidfrancisco/.gradle/daemon/9.0.0/com.example.campussos.app-main-9:/layout/activity_settings.xml"
+    },
+    {
+        "merged": "com.example.campussos.app-debug-7:/layout_activity_splash.xml.flat",
+        "source": "com.example.campussos.app-main-9:/layout/activity_splash.xml"
+    },
+    {
+        "merged": "com.example.campussos.app-debug-7:/anim_splash_bottom_enter.xml.flat",
+        "source": "com.example.campussos.app-main-9:/anim/splash_bottom_enter.xml"
+    },
+    {
+        "merged": "/Users/davidfrancisco/.gradle/daemon/9.0.0/com.example.campussos.app-debug-7:/layout_activity_main.xml.flat",
+        "source": "/Users/davidfrancisco/.gradle/daemon/9.0.0/com.example.campussos.app-main-9:/layout/activity_main.xml"
+    },
+    {
+        "merged": "/Users/davidfrancisco/.gradle/daemon/9.0.0/com.example.campussos.app-debug-7:/layout_widget_sos.xml.flat",
+        "source": "/Users/davidfrancisco/.gradle/daemon/9.0.0/com.example.campussos.app-main-9:/layout/widget_sos.xml"
+    },
+    {
+        "merged": "/Users/davidfrancisco/.gradle/daemon/9.0.0/com.example.campussos.app-debug-7:/drawable_bg_feature_chip.xml.flat",
+        "source": "/Users/davidfrancisco/.gradle/daemon/9.0.0/com.example.campussos.app-main-9:/drawable/bg_feature_chip.xml"
+    },
+    {
+        "merged": "/Users/davidfrancisco/.gradle/daemon/9.0.0/com.example.campussos.app-debug-7:/drawable_bg_skip_button.xml.flat",
+        "source": "/Users/davidfrancisco/.gradle/daemon/9.0.0/com.example.campussos.app-main-9:/drawable/bg_skip_button.xml"
+    },
+    {
+        "merged": "/Users/davidfrancisco/.gradle/daemon/9.0.0/com.example.campussos.app-debug-7:/layout_activity_permission_explanation.xml.flat",
+        "source": "/Users/davidfrancisco/.gradle/daemon/9.0.0/com.example.campussos.app-main-9:/layout/activity_permission_explanation.xml"
+    },
+    {
+        "merged": "/Users/davidfrancisco/.gradle/daemon/9.0.0/com.example.campussos.app-debug-7:/layout_activity_splash.xml.flat",
+        "source": "/Users/davidfrancisco/.gradle/daemon/9.0.0/com.example.campussos.app-main-9:/layout/activity_splash.xml"
+    },
+    {
+        "merged": "/Users/davidfrancisco/.gradle/daemon/9.0.0/com.example.campussos.app-debug-7:/xml_sos_widget_info.xml.flat",
+        "source": "/Users/davidfrancisco/.gradle/daemon/9.0.0/com.example.campussos.app-main-9:/xml/sos_widget_info.xml"
+    },
+    {
+        "merged": "/Users/davidfrancisco/.gradle/daemon/9.0.0/com.example.campussos.app-debug-7:/drawable_sos_widget_background.xml.flat",
+        "source": "/Users/davidfrancisco/.gradle/daemon/9.0.0/com.example.campussos.app-main-9:/drawable/sos_widget_background.xml"
+    },
+    {
+        "merged": "/Users/davidfrancisco/.gradle/daemon/9.0.0/com.example.campussos.app-debug-7:/drawable_bg_status_active.xml.flat",
+        "source": "/Users/davidfrancisco/.gradle/daemon/9.0.0/com.example.campussos.app-main-9:/drawable/bg_status_active.xml"
+    },
+    {
+        "merged": "/Users/davidfrancisco/.gradle/daemon/9.0.0/com.example.campussos.app-debug-7:/drawable_bg_splash_gradient.xml.flat",
+        "source": "/Users/davidfrancisco/.gradle/daemon/9.0.0/com.example.campussos.app-main-9:/drawable/bg_splash_gradient.xml"
+    },
+    {
+        "merged": "/Users/davidfrancisco/.gradle/daemon/9.0.0/com.example.campussos.app-debug-7:/drawable_ic_sos.xml.flat",
+        "source": "/Users/davidfrancisco/.gradle/daemon/9.0.0/com.example.campussos.app-main-9:/drawable/ic_sos.xml"
+    },
+    {
+        "merged": "/Users/davidfrancisco/.gradle/daemon/9.0.0/com.example.campussos.app-debug-7:/drawable_bg_sos_ring_outer.xml.flat",
+        "source": "/Users/davidfrancisco/.gradle/daemon/9.0.0/com.example.campussos.app-main-9:/drawable/bg_sos_ring_outer.xml"
+    },
+    {
+        "merged": "/Users/davidfrancisco/.gradle/daemon/9.0.0/com.example.campussos.app-debug-7:/drawable_bg_permission_button.xml.flat",
+        "source": "/Users/davidfrancisco/.gradle/daemon/9.0.0/com.example.campussos.app-main-9:/drawable/bg_permission_button.xml"
+    },
+    {
+        "merged": "/Users/davidfrancisco/.gradle/daemon/9.0.0/com.example.campussos.app-debug-7:/drawable_bg_dark_card.xml.flat",
+        "source": "/Users/davidfrancisco/.gradle/daemon/9.0.0/com.example.campussos.app-main-9:/drawable/bg_dark_card.xml"
+    },
+    {
+        "merged": "/Users/davidfrancisco/.gradle/daemon/9.0.0/com.example.campussos.app-debug-7:/drawable_bg_dot_green.xml.flat",
+        "source": "/Users/davidfrancisco/.gradle/daemon/9.0.0/com.example.campussos.app-main-9:/drawable/bg_dot_green.xml"
+    },
+    {
+        "merged": "/Users/davidfrancisco/.gradle/daemon/9.0.0/com.example.campussos.app-debug-7:/drawable_bg_sos_circle.xml.flat",
+        "source": "/Users/davidfrancisco/.gradle/daemon/9.0.0/com.example.campussos.app-main-9:/drawable/bg_sos_circle.xml"
+    },
+    {
+        "merged": "/Users/davidfrancisco/.gradle/daemon/9.0.0/com.example.campussos.app-debug-7:/layout_activity_emergency_confirm.xml.flat",
+        "source": "/Users/davidfrancisco/.gradle/daemon/9.0.0/com.example.campussos.app-main-9:/layout/activity_emergency_confirm.xml"
+    },
+    {
+        "merged": "/Users/davidfrancisco/.gradle/daemon/9.0.0/com.example.campussos.app-debug-7:/drawable_bg_header.xml.flat",
+        "source": "/Users/davidfrancisco/.gradle/daemon/9.0.0/com.example.campussos.app-main-9:/drawable/bg_header.xml"
+    },
+    {
+        "merged": "/Users/davidfrancisco/.gradle/daemon/9.0.0/com.example.campussos.app-debug-7:/drawable_bg_confirm_button.xml.flat",
+        "source": "/Users/davidfrancisco/.gradle/daemon/9.0.0/com.example.campussos.app-main-9:/drawable/bg_confirm_button.xml"
+    },
+    {
+        "merged": "com.example.campussos.app-debug-7:/anim_splash_logo_enter.xml.flat",
+        "source": "com.example.campussos.app-main-9:/anim/splash_logo_enter.xml"
+    },
+    {
+        "merged": "com.example.campussos.app-debug-7:/anim_splash_ring_pulse.xml.flat",
+        "source": "com.example.campussos.app-main-9:/anim/splash_ring_pulse.xml"
+    },
+    {
+        "merged": "com.example.campussos.app-debug-7:/anim_splash_text_enter.xml.flat",
+        "source": "com.example.campussos.app-main-9:/anim/splash_text_enter.xml"
+    },
+    {
+        "merged": "com.example.campussos.app-debug-7:/anim_splash_ring_pulse_delayed.xml.flat",
+        "source": "com.example.campussos.app-main-9:/anim/splash_ring_pulse_delayed.xml"
+    },
+    {
+        "merged": "/Users/davidfrancisco/.gradle/daemon/9.0.0/com.example.campussos.app-debug-7:/drawable_bg_main_gradient.xml.flat",
+        "source": "/Users/davidfrancisco/.gradle/daemon/9.0.0/com.example.campussos.app-main-9:/drawable/bg_main_gradient.xml"
+    }
+]

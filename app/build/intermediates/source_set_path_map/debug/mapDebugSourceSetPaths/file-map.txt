@@ -1,0 +1,10 @@
+com.example.campussos.app-core-1.2.0-0 /Users/davidfrancisco/.gradle/caches/9.0.0/transforms/6778e3d7215b1bc76a016e3fb6405312/transformed/core-1.2.0/res
+com.example.campussos.app-play-services-base-18.5.0-1 /Users/davidfrancisco/.gradle/caches/9.0.0/transforms/a5805a0aa6bfa3ad8698abf266aa2ea9/transformed/play-services-base-18.5.0/res
+com.example.campussos.app-play-services-basement-18.4.0-2 /Users/davidfrancisco/.gradle/caches/9.0.0/transforms/c4bbf138ff751076a75f28984f4dab02/transformed/play-services-basement-18.4.0/res
+com.example.campussos.app-pngs-3 /Users/davidfrancisco/Documents/NSTP/REACT-CWTS/app/build/generated/res/pngs/debug
+com.example.campussos.app-resValues-4 /Users/davidfrancisco/Documents/NSTP/REACT-CWTS/app/build/generated/res/resValues/debug
+com.example.campussos.app-packageDebugResources-5 /Users/davidfrancisco/Documents/NSTP/REACT-CWTS/app/build/intermediates/incremental/debug/packageDebugResources/merged.dir
+com.example.campussos.app-packageDebugResources-6 /Users/davidfrancisco/Documents/NSTP/REACT-CWTS/app/build/intermediates/incremental/debug/packageDebugResources/stripped.dir
+com.example.campussos.app-debug-7 /Users/davidfrancisco/Documents/NSTP/REACT-CWTS/app/build/intermediates/merged_res/debug/mergeDebugResources
+com.example.campussos.app-debug-8 /Users/davidfrancisco/Documents/NSTP/REACT-CWTS/app/src/debug/res
+com.example.campussos.app-main-9 /Users/davidfrancisco/Documents/NSTP/REACT-CWTS/app/src/main/res

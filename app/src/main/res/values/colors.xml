@@ -1,7 +1,38 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <color name="sos_red">#B00020</color>
-    <color name="sos_red_dark">#7F0017</color>
-    <color name="surface">#FFFFFF</color>
-    <color name="text_primary">#202124</color>
+    <!-- Backgrounds -->
+    <color name="bg_dark">#0D1117</color>
+    <color name="bg_gradient_end">#13243A</color>
+    <color name="bg_card">#1A2744</color>
+    <color name="bg_card_border">#253352</color>
+
+    <!-- Primary red -->
+    <color name="react_red">#EF4444</color>
+    <color name="react_red_dark">#DC2626</color>
+    <color name="react_red_ripple">#18EF4444</color>
+
+    <!-- SOS glow rings (ARGB: alpha, red, green, blue) -->
+    <color name="sos_ring_outer">#12EF4444</color>
+    <color name="sos_ring_inner">#30EF4444</color>
+
+    <!-- Status green -->
+    <color name="accent_green">#22D67A</color>
+    <color name="accent_green_bg">#0B2A1C</color>
+    <color name="accent_green_border">#1A5C38</color>
+
+    <!-- Text -->
+    <color name="text_white">#F0F6FC</color>
+    <color name="text_secondary">#7B8EA8</color>
+    <color name="text_muted">#4A5D75</color>
+
+    <!-- Dividers -->
+    <color name="divider_dark">#1E3050</color>
+
+    <!-- Theme compat aliases -->
+    <color name="sos_red">#EF4444</color>
+    <color name="sos_red_dark">#0D1117</color>
+    <color name="surface">#0D1117</color>
+    <color name="text_primary">#F0F6FC</color>
+    <color name="white">#FFFFFF</color>
+    <color name="white_dim">#B3FFFFFF</color>
 </resources>
