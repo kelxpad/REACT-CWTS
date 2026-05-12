@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="@drawable/bg_main_gradient"
+    android:gravity="center_horizontal">
+
+    <!-- Top spacer -->
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1.2"/>
+
+    <!-- ══════ RINGS + LOGO STACK ══════ -->
+    <FrameLayout
+        android:layout_width="300dp"
+        android:layout_height="300dp"
+        android:layout_gravity="center_horizontal">
+
+        <!-- Outer glow ring — pulsing -->
+        <View
+            android:id="@+id/splash_ring_outer"
+            android:layout_width="300dp"
+            android:layout_height="300dp"
+            android:background="@drawable/bg_sos_ring_outer"/>
+
+        <!-- Inner glow ring — pulsing (offset) -->
+        <View
+            android:id="@+id/splash_ring_inner"
+            android:layout_width="248dp"
+            android:layout_height="248dp"
+            android:layout_gravity="center"
+            android:background="@drawable/bg_sos_ring_inner"/>
+
+        <!-- Center red circle with REACT wordmark — scales in -->
+        <FrameLayout
+            android:id="@+id/splash_logo_container"
+            android:layout_width="188dp"
+            android:layout_height="188dp"
+            android:layout_gravity="center"
+            android:background="@drawable/bg_sos_circle">
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:orientation="vertical"
+                android:gravity="center">
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="REACT"
+                    android:textColor="@color/white"
+                    android:textSize="40sp"
+                    android:textStyle="bold"
+                    android:letterSpacing="0.05"
+                    android:fontFamily="sans-serif-condensed"/>
+
+                <View
+                    android:layout_width="36dp"
+                    android:layout_height="1.5dp"
+                    android:background="@color/white_dim"
+                    android:layout_marginTop="6dp"
+                    android:layout_marginBottom="6dp"/>
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="EMERGENCY ALERT"
+                    android:textColor="@color/white_dim"
+                    android:textSize="8sp"
+                    android:textStyle="bold"
+                    android:letterSpacing="0.12"/>
+            </LinearLayout>
+        </FrameLayout>
+    </FrameLayout>
+
+    <!-- ══════ TAGLINE — slides up ══════ -->
+    <LinearLayout
+        android:id="@+id/splash_tagline"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:gravity="center"
+        android:layout_marginTop="28dp">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/app_full_name"
+            android:textColor="@color/text_secondary"
+            android:textSize="13sp"
+            android:gravity="center"
+            android:letterSpacing="0.02"/>
+
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal"
+            android:gravity="center_vertical"
+            android:layout_marginTop="10dp"
+            android:background="@drawable/bg_status_active"
+            android:paddingStart="10dp"
+            android:paddingEnd="12dp"
+            android:paddingTop="5dp"
+            android:paddingBottom="5dp">
+
+            <View
+                android:layout_width="6dp"
+                android:layout_height="6dp"
+                android:background="@drawable/bg_dot_green"/>
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="UP Diliman Campus Safety"
+                android:textColor="@color/accent_green"
+                android:textSize="10sp"
+                android:textStyle="bold"
+                android:layout_marginStart="6dp"
+                android:letterSpacing="0.06"/>
+        </LinearLayout>
+    </LinearLayout>
+
+    <!-- Bottom spacer -->
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1"/>
+
+    <!-- ══════ BOTTOM — fades in ══════ -->
+    <LinearLayout
+        android:id="@+id/splash_bottom"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:gravity="center"
+        android:paddingBottom="52dp">
+
+        <ProgressBar
+            android:layout_width="120dp"
+            android:layout_height="2dp"
+            style="@android:style/Widget.Material.ProgressBar.Horizontal"
+            android:indeterminate="true"
+            android:indeterminateTint="@color/react_red"
+            android:layout_marginBottom="14dp"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Emergency Alert System"
+            android:textColor="@color/text_muted"
+            android:textSize="10sp"
+            android:letterSpacing="0.08"/>
+    </LinearLayout>
+</LinearLayout>
